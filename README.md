@@ -1,2 +1,2 @@
-# installers
-This repository captures some basic installation steps in bash shell scripts.
+# Installers
+This repository captures some basic steps for building open-source software.  Portability drives the shell choice: bash 3 is supported by default on macOS, Linux, and the Windows Subsystem for Linux.  The intend use case involves producing a working build quickly without much need for customization. Hence, arguments and options are minimal.  Getting something working fast without having to search for and digest lots of documentation is the priority.  Keeping the sripts short provides the option to use the scripts as a guide for typing commands interactively at a shell prompt in order to customize or replace some steps.
